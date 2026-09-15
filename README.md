@@ -14,16 +14,13 @@
 
 ---
 
-## 🎬 Demo — Output Video
+## 🎬 Demo — Output Preview
 
-> The video below shows the annotated output with bounding boxes and confidence scores drawn on every detected face.
+> Animated preview (8 seconds) of the annotated output — bounding boxes + confidence scores drawn on every detected face. **Autoplays inline!**
 
-<video src="output_video.mp4" controls width="100%">
-  Your browser does not support the video tag. 
-  <a href="output_video.mp4">Click here to download the output video</a>.
-</video>
+![Face Detection Demo](demo_preview.gif)
 
-**Input:** [`test_video.mp4`](test_video.mp4) &nbsp;|&nbsp; **Output:** [`output_video.mp4`](output_video.mp4)
+📥 **Download full video:** [`output_video.mp4`](output_video.mp4) &nbsp;|&nbsp; 🎥 **Input:** [`test_video.mp4`](test_video.mp4)
 
 ---
 
